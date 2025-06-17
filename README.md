@@ -1,9 +1,3 @@
-<!--- ********** REMINDER **********
-#
-# browser render: python3 -m http.server
-#
-#********** END OF THE REMINDER - DELETE BEFORE DEPLOYMENT ********** --->
-
 # Bootstrap-tryout
 Test place for the framework of common design components by CI  
 
